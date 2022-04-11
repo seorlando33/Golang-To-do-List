@@ -1,2 +1,4 @@
 # Golang-To-do-List
-Golang To-do list, SQL, JWT, raw http.
+
+This project is made with the following technologies: PostgreSQL, JWT and Golang net/http.
+
